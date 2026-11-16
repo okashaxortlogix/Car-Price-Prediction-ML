@@ -119,7 +119,7 @@ Car-Price-Prediction-ML/
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/muhammadokashapak/Car-Price-Prediction-ML.git
+git clone https://github.com/okashaxortlogix/Car-Price-Prediction-ML.git
 cd Car-Price-Prediction-ML
 
 # 2. Create virtual environment
@@ -140,7 +140,7 @@ jupyter notebook notebooks/auto_trader_scraper.ipynb
 **Muhammad Okasha**  
 *AI & Machine Learning Specialist | Full-Stack Architect*  
 - **GitHub:** [@muhammadokashapak](https://github.com/muhammadokashapak)
-- **Repository:** [Car-Price-Prediction-ML](https://github.com/muhammadokashapak/Car-Price-Prediction-ML)
+- **Repository:** [Car-Price-Prediction-ML](https://github.com/okashaxortlogix/Car-Price-Prediction-ML)
 
 ---
 
